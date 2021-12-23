@@ -1,6 +1,6 @@
 {
   "name": "@chenky/vue-focus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue auto focus and support element UI",
   "files": ["dist"],
   "main": "./dist/vue-focus.umd.js",
